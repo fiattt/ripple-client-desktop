@@ -3,8 +3,14 @@
 ## Install Dependencies
 
 - Fork and clone the ripple-client-desktop repository 
+- 安装nvm
+- 切换node到0.10.26版本   nvm install 0.10.26   nvm use 0.10.26
 - Run `npm install`
+
 - Download [nw.js](https://github.com/nwjs/npm-installer)
+  安装nw.js要使用node 4.8.7版本  使用nvm use 4.8.7切换
+  npm install nw@0.13.0
+  
 
 ## Build
 

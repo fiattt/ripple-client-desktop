@@ -101,7 +101,6 @@
     "karma-sinon-chai": "~0.1.6",
     "merge-stream": "^1.0.0",
     "mime": "~1.2.11",
-    "nw": "^0.12.3",
     "run-sequence": "^1.1.2"
   }
 }
